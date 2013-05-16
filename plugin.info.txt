@@ -1,0 +1,8 @@
+base    ppecdg
+author  Martyn Eggleton
+email   martyn.eggleton@gmail.com
+date    2013-04-19
+name    PayPal Express Checkout Digital Goods Plugin
+desc    Easy creation of PayPal buttons for the sale of a Digital Item with an in page workflow.
+url     http://www.dokuwiki.org/plugin:ppecdg
+
